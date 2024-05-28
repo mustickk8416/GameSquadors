@@ -1,0 +1,2 @@
+# GameSquadors
+The game store
